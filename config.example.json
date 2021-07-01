@@ -1,0 +1,27 @@
+{
+    "token": "YOUR BOT'S AMAZING TOKEN",
+    "prefix": "A GOOD PREFIX",
+
+    "database": {
+        "influx": {
+            "host": "INFLUX HOST URL",
+            "token": "INFLUX TOKEN",
+            "organization": "INFLUX ORG",
+            "bucket": "INFLUX BUCKET"
+        },
+        "mongodb": {
+            "host": "MONGO HOST",
+            "username": "MONGO USERNAME",
+            "password": "MONGO PASSWORD",
+            "database": "MONGO DATABASE"
+        }
+    },
+    "customization": {
+        "primaryEmbed": {
+            "color": "#4e89ae"
+        },
+        "errorEmbed": {
+            "color": "#ed6663"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+# Config files
+config.json
+config.prod.json
+
+# Node modules
+node_modules/
+
+# VS Code
+.vscode/
+
+# Logs 
+logs/
